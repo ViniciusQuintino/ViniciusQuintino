@@ -13,11 +13,29 @@ Power BI • SQL • Python • Excel • QGIS • SAP Business One
 
 ### World Cup Project
 
-Inspirado pela Copa do Mundo de 2026, desenvolvi um dashboard interativo
-que explora a história das Copas do Mundo.
-A análise apresenta os maiores campeões, seleções com mais participações,
-desempenho ao longo dos anos e estatísticas de jogadores, como maiores artilheiros,
-oferecendo uma visão histórica e analítica do torneio.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <strong>Dashboard – História das Copas do Mundo</strong><br><br>
+      Inspirado pela Copa do Mundo de 2026, desenvolvi um dashboard interativo
+      que explora a história das Copas do Mundo.<br><br>
+      A análise apresenta os maiores campeões, seleções com mais participações,
+      desempenho ao longo dos anos e estatísticas de jogadores, como maiores
+      artilheiros, oferecendo uma visão histórica e analítica do torneio.
+    </td>
+    <td width="45%">
+      <img src="https://github.com/ViniciusQuintino/ViniciusQuintino/blob/main/Dashboard%20Copas.png?raw=true"
+           alt="Dashboard Copas do Mundo"
+           width="100%"/>
+    </td>
+  </tr>
+</table>
+<p>
+  🔗 <a href="https://github.com/ViniciusQuintino/worldcupproject" target="_blank">
+    Acessar projeto completo no GitHub
+  </a>
+</p>
+
 <!--
 **ViniciusQuintino/ViniciusQuintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
