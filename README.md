@@ -1,5 +1,23 @@
-## Hi there 👋
+## Olá, eu sou o Vinicius 👋
 
+### Analista de Dados | BI | Geotecnologias 🌱
+
+🔧 Tecnologias:
+Power BI • SQL • Python • Excel • QGIS • SAP Business One
+
+📍 Águas da Prata - SP  
+🔗LinkedIn: [Vinicius Quintino](https://www.linkedin.com/in/vinicius-quintino) <br/>
+📧 Email: viniciusquintino33@gmail.com
+
+## Portifólio e Principais Projetos
+
+### World Cup Project
+
+Inspirado pela Copa do Mundo de 2026, desenvolvi um dashboard interativo
+que explora a história das Copas do Mundo.
+A análise apresenta os maiores campeões, seleções com mais participações,
+desempenho ao longo dos anos e estatísticas de jogadores, como maiores artilheiros,
+oferecendo uma visão histórica e analítica do torneio.
 <!--
 **ViniciusQuintino/ViniciusQuintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
