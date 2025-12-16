@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinicius 👋
+## Olá, sou Vinicius 👋
 
 ### Analista de Dados | BI | Geotecnologias 🌱
 
