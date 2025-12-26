@@ -2,6 +2,8 @@
 
 ### Analista de Dados | BI | Geotecnologias 🌱
 
+Sou especializado em transformar dados em dashboards claros e interativos que apoiam melhores decisões de negócio.
+
 🔧 Tecnologias:  
 Power BI • SQL • Python • Excel • QGIS • SAP Business One
 
