@@ -1,40 +1,47 @@
-## Olá, sou Vinicius 👋
+## Hi, I'm Vinicius 👋
 
-### Analista de Dados | BI | Geotecnologias 🌱
+### Data Analyst | Business Intelligence | Geotechnologies 🌱
 
-🔧 Tecnologias:
+🔧 Technologies:  
 Power BI • SQL • Python • Excel • QGIS • SAP Business One
 
-📍 Águas da Prata - SP  
-🔗LinkedIn: [Vinicius Quintino](https://www.linkedin.com/in/vinicius-quintino) <br/>
+📍 Águas da Prata - SP, Brazil  
+🔗 LinkedIn: [Vinicius Quintino](https://www.linkedin.com/in/vinicius-quintino) <br/>
 📧 Email: viniciusquintino33@gmail.com
 
-## Portifólio e Principais Projetos
+🇧🇷 Read this profile in Portuguese: [README.pt-BR](README.pt-BR.md)
+
+---
+
+## Portfolio & Main Projects
 
 ### World Cup Project
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <strong>Dashboard – História das Copas do Mundo</strong><br><br>
-      Inspirado pela Copa do Mundo de 2026, desenvolvi um dashboard interativo
-      que explora a história das Copas do Mundo.<br><br>
-      A análise apresenta os maiores campeões, seleções com mais participações,
-      desempenho ao longo dos anos e estatísticas de jogadores, como maiores
-      artilheiros, oferecendo uma visão histórica e analítica do torneio.
+      <strong>Dashboard – FIFA World Cup History</strong><br><br>
+      Inspired by the 2026 World Cup, I developed an interactive dashboard
+      that explores the history of the FIFA World Cup.<br><br>
+      The analysis highlights the most successful national teams, countries
+      with the most appearances, performance over the years, and player
+      statistics such as top scorers, providing a historical and analytical
+      view of the tournament.
     </td>
     <td width="45%">
       <img src="https://github.com/ViniciusQuintino/ViniciusQuintino/blob/main/Dashboard%20Copas.png?raw=true"
-           alt="Dashboard Copas do Mundo"
+           alt="World Cup Dashboard"
            width="100%"/>
     </td>
   </tr>
 </table>
+
 <p>
   🔗 <a href="https://github.com/ViniciusQuintino/worldcupproject" target="_blank">
-    Acessar projeto completo no GitHub
+    View full project on GitHub
   </a>
 </p>
+
 
 <!--
 **ViniciusQuintino/ViniciusQuintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
