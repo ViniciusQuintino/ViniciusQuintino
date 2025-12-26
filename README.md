@@ -1,6 +1,8 @@
 ## Hi, I'm Vinicius 👋
 
-### Data Analyst | Business Intelligence | Geotechnologies 🌱
+### Data Analyst | Business Intelligence (Power BI) | Geotechnologies 🌱
+
+I specialize in transforming data into clear, interactive dashboards that support better business decisions.
 
 🔧 Technologies:  
 Power BI • SQL • Python • Excel • QGIS • SAP Business One
