@@ -4,7 +4,7 @@
 
 <p align="center">
   I turn data into decisions — building BI dashboards, automation pipelines,
-  apps, LLM tools and statistical models that run in production.
+  apps, LLM tools and statistical models.
 </p>
 
 <p align="center">
